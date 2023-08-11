@@ -13,3 +13,5 @@ gem "roo", "~> 2.10"
 gem "tty-prompt", "~> 0.23.1"
 
 gem "activerecord", "~> 7.0"
+
+gem "dotenv", "~> 2.8"
